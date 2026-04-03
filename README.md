@@ -4,14 +4,14 @@ ShadowNet is a cybersecurity desktop application built with Python featuring a l
 
 ---
 
-## 🎥 Preview
+##  Preview
 
 <!-- Record a short demo video and upload it to your GitHub repo, then replace the link below -->
-> 📹 Demo video coming soon 
+>  Demo video coming soon 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3** — core language
 - **Tkinter** — GUI framework
