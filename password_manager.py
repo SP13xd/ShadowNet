@@ -9,7 +9,7 @@ from cryptography.fernet import Fernet
 
 DATA_FILE       = "passwords.json"
 KEY_FILE        = "secret.key"
-MASTER_PASSWORD = "admin123"
+MASTER_PASSWORD = "admin123"   # Just an example
 
 BG      = "#0d0d18"
 BG2     = "#12121e"
